@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549327228182",
+    "project_id": "one2many-83dee",
+    "storage_bucket": "one2many-83dee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549327228182:android:c8da12ac5c7e6f7f18d437",
+        "android_client_info": {
+          "package_name": "com.example.one2manychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549327228182-ddrv8go9sni9i18nklq8rav3l78kpptg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhgDZz4FBRZMNXrvBLrRr5rge38osPKCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549327228182-ddrv8go9sni9i18nklq8rav3l78kpptg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
